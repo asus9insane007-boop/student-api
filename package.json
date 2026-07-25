@@ -14,9 +14,18 @@
   "dependencies": {
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
-    "mongoose": "^9.8.0"
+    "mongoose": "^9.8.0",
+    "validator": "^13.15.35"
   },
   "devDependencies": {
     "nodemon": "^3.1.14"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asus9insane007-boop/student-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/asus9insane007-boop/student-api/issues"
+  },
+  "homepage": "https://github.com/asus9insane007-boop/student-api#readme"
 }
